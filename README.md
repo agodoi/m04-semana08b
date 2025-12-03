@@ -13,10 +13,8 @@ O objetivo deste encontro é construir o fluxo completo de entrada e processamen
 
 ## Correções a partir da Sprint 3
 
+Cada grupo terá 18min para explorar qualquer questão técnica do projeto para refinar os artefatos.
 
-
-
-### Outras Correções
 
 #### 1) Arquitetura da Solução
 
